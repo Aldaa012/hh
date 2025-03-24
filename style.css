@@ -13,7 +13,6 @@ h1 {
     transition: background-color 2s linear color 1s ease-in 2.5s;
     background-color: blueviolet;
 }
-    
 
 .cely{
     display: flex;
